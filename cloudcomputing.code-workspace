@@ -1,10 +1,6 @@
 {
   "folders": [
     {
-      "name": "alexa-skill-watson-assistant",
-      "path": "../alexa-skill-watson-assistant"
-    },
-    {
       "name": "CloudComputing_Assignment2",
       "path": "."
     }
